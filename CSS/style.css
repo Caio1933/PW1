@@ -1,0 +1,40 @@
+body{
+	background-color: rgba(235, 227, 217, 0.464);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.deive{
+	text-align: right;	
+	background-color: rgba(183, 216, 216, 0.367);
+	border: solid 2px black;
+	border-radius: 5px;
+	font-size: 20px;
+
+	
+}
+.deive2{
+	text-align: center;
+	font-size: 15px;
+	
+}
+
+h1{
+	background-color: azure;
+	text-align: center;
+	color: blue;
+}
+ul{
+	list-style: none;	
+}
+a{
+	/* margin: 25px; */
+}
+button{
+	background-color: #04AA6D;
+	font-size: 35px;
+	border-radius: 5px;
+	margin: 5px;
+}
+button:hover{
+	background-color: yellow;
+}
